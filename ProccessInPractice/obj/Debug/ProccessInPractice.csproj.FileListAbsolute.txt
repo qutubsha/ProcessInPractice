@@ -41,6 +41,5 @@ D:\Process_In_Practice\Source\ProccessInPractice\bin\System.Web.WebPages.xml
 D:\Process_In_Practice\Source\ProccessInPractice\bin\System.Web.WebPages.Deployment.xml
 D:\Process_In_Practice\Source\ProccessInPractice\bin\System.Web.WebPages.Razor.xml
 D:\Process_In_Practice\Source\ProccessInPractice\bin\Antlr3.Runtime.pdb
-D:\Process_In_Practice\Source\ProccessInPractice\obj\Debug\ProccessInPractice.csprojResolveAssemblyReference.cache
 D:\Process_In_Practice\Source\ProccessInPractice\obj\Debug\ProccessInPractice.dll
 D:\Process_In_Practice\Source\ProccessInPractice\obj\Debug\ProccessInPractice.pdb
