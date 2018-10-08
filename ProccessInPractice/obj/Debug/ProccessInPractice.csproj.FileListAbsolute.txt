@@ -22,6 +22,7 @@ D:\Process_In_Practice\Source\ProccessInPractice\bin\Antlr3.Runtime.dll
 D:\Process_In_Practice\Source\ProccessInPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\Process_In_Practice\Source\ProccessInPractice\bin\Microsoft.Web.Infrastructure.dll
 D:\Process_In_Practice\Source\ProccessInPractice\bin\Newtonsoft.Json.dll
+D:\Process_In_Practice\Source\ProccessInPractice\bin\nunit.framework.dll
 D:\Process_In_Practice\Source\ProccessInPractice\bin\System.Net.Http.Formatting.dll
 D:\Process_In_Practice\Source\ProccessInPractice\bin\System.Web.Helpers.dll
 D:\Process_In_Practice\Source\ProccessInPractice\bin\System.Web.Http.dll
@@ -34,6 +35,8 @@ D:\Process_In_Practice\Source\ProccessInPractice\bin\System.Web.WebPages.dll
 D:\Process_In_Practice\Source\ProccessInPractice\bin\System.Web.WebPages.Razor.dll
 D:\Process_In_Practice\Source\ProccessInPractice\bin\WebGrease.dll
 D:\Process_In_Practice\Source\ProccessInPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Process_In_Practice\Source\ProccessInPractice\bin\nunit.framework.pdb
+D:\Process_In_Practice\Source\ProccessInPractice\bin\nunit.framework.xml
 D:\Process_In_Practice\Source\ProccessInPractice\bin\Newtonsoft.Json.xml
 D:\Process_In_Practice\Source\ProccessInPractice\bin\System.Net.Http.Formatting.xml
 D:\Process_In_Practice\Source\ProccessInPractice\bin\System.Web.Helpers.xml
