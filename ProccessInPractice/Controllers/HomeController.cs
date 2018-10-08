@@ -10,7 +10,7 @@ namespace ProccessInPractice.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "This is My New Home Page";
+            ViewBag.Title = "This is My New Home Page Again";
 
             return View();
         }
