@@ -19,6 +19,8 @@ D:\Process_In_Practice\Source\ProccessInPractice\bin\ProccessInPractice.dll.conf
 D:\Process_In_Practice\Source\ProccessInPractice\bin\ProccessInPractice.dll
 D:\Process_In_Practice\Source\ProccessInPractice\bin\ProccessInPractice.pdb
 D:\Process_In_Practice\Source\ProccessInPractice\bin\Antlr3.Runtime.dll
+D:\Process_In_Practice\Source\ProccessInPractice\bin\EntityFramework.dll
+D:\Process_In_Practice\Source\ProccessInPractice\bin\EntityFramework.SqlServer.dll
 D:\Process_In_Practice\Source\ProccessInPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\Process_In_Practice\Source\ProccessInPractice\bin\Microsoft.Web.Infrastructure.dll
 D:\Process_In_Practice\Source\ProccessInPractice\bin\Newtonsoft.Json.dll
@@ -34,6 +36,8 @@ D:\Process_In_Practice\Source\ProccessInPractice\bin\System.Web.WebPages.Deploym
 D:\Process_In_Practice\Source\ProccessInPractice\bin\System.Web.WebPages.dll
 D:\Process_In_Practice\Source\ProccessInPractice\bin\System.Web.WebPages.Razor.dll
 D:\Process_In_Practice\Source\ProccessInPractice\bin\WebGrease.dll
+D:\Process_In_Practice\Source\ProccessInPractice\bin\EntityFramework.xml
+D:\Process_In_Practice\Source\ProccessInPractice\bin\EntityFramework.SqlServer.xml
 D:\Process_In_Practice\Source\ProccessInPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\Process_In_Practice\Source\ProccessInPractice\bin\nunit.framework.pdb
 D:\Process_In_Practice\Source\ProccessInPractice\bin\nunit.framework.xml
@@ -49,5 +53,6 @@ D:\Process_In_Practice\Source\ProccessInPractice\bin\System.Web.WebPages.xml
 D:\Process_In_Practice\Source\ProccessInPractice\bin\System.Web.WebPages.Deployment.xml
 D:\Process_In_Practice\Source\ProccessInPractice\bin\System.Web.WebPages.Razor.xml
 D:\Process_In_Practice\Source\ProccessInPractice\bin\Antlr3.Runtime.pdb
+D:\Process_In_Practice\Source\ProccessInPractice\obj\Debug\ProccessInPractice.csprojResolveAssemblyReference.cache
 D:\Process_In_Practice\Source\ProccessInPractice\obj\Debug\ProccessInPractice.dll
 D:\Process_In_Practice\Source\ProccessInPractice\obj\Debug\ProccessInPractice.pdb
