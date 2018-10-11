@@ -15,10 +15,7 @@ namespace ProccessInPractice.Controllers
 
             ViewBag.Title = "This is My New Home Page Again";
 
-            if(true)
                 return View();
-
-return null;
             //ViewBag.Title = "This is My New Home Page Again";
             //return View();
 
