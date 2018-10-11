@@ -12,7 +12,12 @@ namespace ProccessInPractice.Controllers
         {
             ViewBag.Title = "This is My New Home Page Again";
 
-            return View(;
+            if(true)
+            {
+                return View();
+            }
+
+            return null;
         }
     }
 }
