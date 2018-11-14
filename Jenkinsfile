@@ -8,7 +8,7 @@ pipeline {
     }
     stage('Restore Packages') {
       steps {
-        bat 'bat \'nuget restore ProccessInPractice.sln\''
+        bat 'nuget restore ProccessInPractice.sln'
       }
     }
   }
