@@ -33,7 +33,7 @@ pipeline {
     }
     stage('Email') {
       steps {
-        mail(subject: '$DEFAULT_SUBJECT', body: '$DEFAULT_CONTENT', from: 'qutub.sha@gmail.com', replyTo: '$DEFAULT_REPLYTO', to: '$DEFAULT_RECIPIENTS', mimeType: 'text/html')
+        mail(subject: '$DEFAULT_SUBJECT', body: '$DEFAULT_CONTENT', from: 'qutub.sha@gmail.com', replyTo: '$DEFAULT_REPLYTO', to: '$DEFAULT_RECIPIENTS', mimeType: 'text/html', cc: 'kutbuddin.s@sigmainfo.net', bcc: 'kandarp.j@sigmainfo.net')
       }
     }
   }
