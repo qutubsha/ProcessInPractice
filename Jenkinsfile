@@ -31,11 +31,6 @@ pipeline {
         bat '"C:\\Program Files (x86)\\NUnit.org\\nunit-console\\nunit3-console.exe" ProccessInPractice/bin/ProccessInPractice.dll'
       }
     }
-    stage('Email') {
-      steps {
-        mail(subject: '$DEFAULT_SUBJECT', body: '$DEFAULT_CONTENT', from: 'qutub.sha@gmail.com', replyTo: '$DEFAULT_REPLYTO', to: '$DEFAULT_RECIPIENTS', mimeType: 'text/html', cc: 'kutbuddin.s@sigmainfo.net', bcc: 'kandarp.j@sigmainfo.net')
-      }
-    }
   }
   post {
     changed {
